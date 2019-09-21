@@ -1,0 +1,17 @@
+{
+  "name": "mnm",
+  "version": "1.0.0",
+  "description": "Campionato Universitario Makers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Berti",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "brain.js": "^2.0.0-alpha.9",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
